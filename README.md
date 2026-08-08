@@ -112,6 +112,7 @@ Orders vs sales relationship
 
 🔗 **Tableau Public Link:**
 https://public.tableau.com/views/ProductSalesForecasting\_17861952617980/Dashboard?:language=en-US\&:sid=\&:redirect=auth\&:display\_count=n\&:origin=viz\_share\_link
+
 🚀 **Deployment**
 
 The trained model was deployed using a Flask REST API.
@@ -141,8 +142,6 @@ pip install -r requirements.txt
 # Run the Flask app
 
 python app.py
-
-
 
 Product Sales Forecasting Using Machine Learning
 📌 Project Overview
